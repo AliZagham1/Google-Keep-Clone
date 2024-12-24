@@ -39,3 +39,9 @@ coverage/
 
 # Vite-specific files
 .vite/
+
+# Ignore temporary JSON files, but keep critical ones
+*.json
+!package.json
+!package-lock.json
+!.eslintrc.json
