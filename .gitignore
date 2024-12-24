@@ -37,7 +37,5 @@ coverage/
 *.lock
 *.cache
 
-
-
 # Vite-specific files
 .vite/
